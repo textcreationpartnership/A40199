@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here is declared the manner of the naming of children in the old time without a priest sprinkling them with water which now is, and hath been in these times, yet they have the Scriptures, but shew their contrary walking to Scripture, and also the practice of the holy men of God by Scripture ... / by G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40199</idno>
+            <idno type="STC">Wing F1840</idno>
+            <idno type="STC">ESTC R36515</idno>
+            <idno type="EEBO-CITATION">15714170</idno>
+            <idno type="OCLC">ocm 15714170</idno>
+            <idno type="VID">104492</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104492)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here is declared the manner of the naming of children in the old time without a priest sprinkling them with water which now is, and hath been in these times, yet they have the Scriptures, but shew their contrary walking to Scripture, and also the practice of the holy men of God by Scripture ... / by G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Infant baptism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104492:1" rendition="simple:additions"/>
+            <p>HERE IS DECLARED The manner of the naming of CHILDREN IN The old time, without a Prieſt ſprinkling them with Water, which now is, and hath been in theſe times, yet they have the Scri<g ref="char:EOLhyphen"/>ptures, but ſhews their contrary wal<g ref="char:EOLhyphen"/>king to Scripture.</p>
+            <p>And alſo, the Practiſe of the holy men of God by Scripture; How that God named <hi>Adam,</hi> and <hi>Adam</hi> gave Names; and men and women gave names to children. And how Angels was ſent to ſome, to tell them what their Names ſhould be, vvithout God-fathers, or God-mothers, or Sureties, or Prieſts to ſprinkle them with Water. Which ſhevvs, They that have God-fathers, and God-mothers, and Goſſips, and uſe Prieſts to ſprin<g ref="char:EOLhyphen"/>kle them, are contrary to Scripture and the practiſe of the holy men of God, as you may read in the follovv<g ref="char:EOLhyphen"/>ing Treatiſe.</p>
+            <p>With an Addition of the ſpevving, and vomiting, and drunkenneſs of all Profeſſions.</p>
+            <q>
+               <p>Thus ſaith the Lord, Learn not the way of the Heathen, for the cuſtoms of the people are vain, <bibl>Ier. 10.2, 3.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>VVhy do you tranſgreſs the commandment of God by your tradition, <bibl>Matt. 15.3.</bibl>
+               </p>
+            </q>
+            <p>Given forth by <hi>G. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:104492:2"/>
+            <head>Here is declared the manner of the na<g ref="char:EOLhyphen"/>ming of Children in the old Time, without a Prieſt ſprinkling them with Water, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N the day that God created man,
+<note place="margin">
+                  <hi>Gen.</hi> 5.</note> in the likeneſs of God made he him a male and female, and bleſſed them, and called their n<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>Adam;</hi> in that day when he created them, God gave unto them their names; and God brought every beaſt of the field, and every fowl of the ayre which he had formed out of the ground, to ſee what <hi>Adam</hi> would call them, and whatſoever <hi>Adam</hi> would call them, and whatſoever <hi>Adam</hi> called them,
+<note place="margin">
+                  <hi>Adam <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ave them Names. Gen.</hi> 2.</note> all the fowls of the ayre, and all the beaſts of the field, whatſoever <hi>Adam</hi> called every living creature, that was his name: <hi>Adam</hi> ſaid, <hi>This is bone of my bone, and flesh of my flesh, she shall be called Woman, becauſe she is taken out of man; and Adam called his wifes name Eve. And Adam begat a Son in his own image, after his likeneſs, and called his name Seth. And Seth, to him alſo was born a ſon, and he called his name Enos.</hi>
+               <note place="margin">
+                  <hi>Gen</hi> 4.</note> Now here was no Prieſt ſpoken of to ſprin<g ref="char:EOLhyphen"/>kle them with water, nor no Sureties, no Goſſips, nor circumciſion; but their father gave them their names; ſo the Lord gave <hi>Adam</hi> his name, and he did give names to his children without a Prieſt: Neither do we read that here were God-fathers, or God-mothers; and is it not blaſphe<g ref="char:EOLhyphen"/>my to ſay God hath a father, or God hath a mother? If you ſay it is not, Who is Gods father? and where is his mother? And if you ſay it is, blot it out of your Catechiſm you teach your children.
+<note place="margin">
+                  <hi>Gen.</hi> 16.</note> And the Angel of the Lord ſaid unto <hi>Hagar, Thou shalt have a Son, and call his name Ishmael.</hi> Here the Angel taught her what to call her child, and not a God-father, or a God-mother, as you call them. And <hi>Hagar</hi> bare a ſon, and called his name <hi>Ishmael,</hi> according to the word of the Angel of the Lord. And God ſaid,
+<note place="margin">
+                  <hi>Gen.</hi> 17.</note> 
+               <hi>Sarah thy Wife shall bare a ſon indeed, and thou shalt call his name Iſaac:</hi> Here God taught <hi>Abraham</hi> what he ſhould call his ſons name, and he obeyed the voice of God; and you do not read that he did ſeeke to a God-father, or God-mother, or ſprinkled him with water: And the two daughters of <hi>Lot</hi> which bare two ſons, which called the name of the one <hi>Moab,</hi> and the name of the other <hi>Ben-ammi;</hi> when that they ſaid there was not a man in the earth to come in unto them,
+<note place="margin">
+                  <hi>Gen.</hi> 19.</note> what Prieſt was there to ſprinkle them? Or who was there then to be their God-fathers,
+<pb n="3" facs="tcp:104492:2"/>or God-mothers? But they called their children by their names; and <hi>A<g ref="char:EOLhyphen"/>braham</hi> called his ſons name which <hi>Sarah</hi> bare to him, <hi>Iſaac;</hi>
+               <note place="margin">
+                  <hi>Ge<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> but no talk of a Prieſt, or of ſprinkling with water. And <hi>Rebecca</hi> bare two boys unto <hi>Iſaac,</hi> and the firſt he called <hi>Eſau,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and the ſecond he called <hi>Iacob;</hi> and here again is no talk of a prieſt, nor water, nor of God-fa<g ref="char:EOLhyphen"/>thers, or God-mothers. And <hi>Laban</hi> had two daughters, the name of the one was <hi>Leah,</hi> and the name of the other was <hi>Rachel,</hi> but it doth not ſay there was any prieſt (or water) ſprinkling of them at their naming. And <hi>Leah</hi> conceived and bare a ſon, and ſhe called his name <hi>Ruben:</hi> mark,
+<note place="margin">
+                  <hi>Gen.</hi> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>She called his name:</hi> It was ſhe that gave the name here. She conceived a<g ref="char:EOLhyphen"/>gain, and bare another ſon, and called his name <hi>Simeon.</hi> Mark, She a<g ref="char:EOLhyphen"/>gain conceived and bare a ſon, and called his name <hi>Levi;</hi> mark, ſhe again gave his name. She again conceived and bare a ſon, and called his name <hi>Iudah:</hi> Now here was no ſpeech of God-fathers, or God-mothers, or Prieſts to have mony for ſprinkling them, nor ſureties, their names were recorded. And <hi>Rachel</hi> bare <hi>Jacob</hi> a ſon, &amp; <hi>Rachel</hi> called his name <hi>Dan;</hi> and ſhe conceived again, and bare <hi>Jacob</hi> a ſecond ſon, and <hi>Rachel</hi> called his name <hi>Napthali.</hi> And <hi>Zilpah</hi> bare a ſon, and <hi>Leah</hi> called his name <hi>Gad:</hi> And <hi>Zilpah</hi> bare a ſecond ſon, and <hi>Leah</hi> called his name <hi>Asher.</hi> And <hi>Leah</hi> ſhe conceived and bare <hi>Jacob</hi> a fifth ſon, and called his name <hi>Iſsa<g ref="char:EOLhyphen"/>char.</hi> And <hi>Leah</hi> conceived again, and bare a ſon, and called his name <hi>Zebulon,</hi> and after ſhe bare a daughter, and called her name <hi>Dinah.</hi> Now here was no prieſt, nor talk of God-fathers, nor God-mothers, but the women named their children. <hi>Rachel</hi> conceived, and ſhe bare a ſon, and called his name <hi>Joſeph:</hi> Mark, ſhe called his name <hi>Ioſeph:</hi> Here is no ſpeech of God-fathers, and God-mothers to name him, neither of a prieſt to ſprinkle. Now if you follow the example of Scripture, they will lead you from God-fathers, and God-mothers, and Prieſts to ſprin<g ref="char:EOLhyphen"/>kle your children. And <hi>Rachel</hi> travelled and brought forth a ſon, and ſhe called his name <hi>Ben-oni,</hi> but his father called his name <hi>Benjamin;</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 35.</note> here is no talk of God-fathers, or God-mothers, or a prieſt. And <hi>Iudah</hi> took <hi>Shuah,</hi> and ſhe bare a ſon, and he called his name <hi>Er.</hi> And ſhe con<g ref="char:EOLhyphen"/>cived again, and bare a ſon, and ſhe called his name <hi>Onon;</hi> mark,
+<note place="margin">
+                  <hi>Gen.</hi> 38.</note> ſhe called his name. And ſhe conceived again and bare a ſon, and ſhe cal<g ref="char:EOLhyphen"/>led his name <hi>Shelah. Tamar</hi> bare two children, the name of the firſt was called <hi>Pharize,</hi> and the name of the other <hi>Zarah.</hi> And unto <hi>Ioſeph</hi> was born two ſons, and they called the name of the one <hi>Manaſses,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 41.</note> and the name of the other called he <hi>Ephraim:</hi> Now here is no talk of God-fa<g ref="char:EOLhyphen"/>thers, or God mothers, or prieſts to ſprinkle them. And <hi>Moſes, Ziporah</hi> bare a ſon to him, and he called his name <hi>Garshon:</hi> And here is no talk of a prieſt likewiſe with his water, nor of God-fathers, nor God-mo<g ref="char:EOLhyphen"/>thers, nor Goſſips, nor Prieſts, Churching nor Chriſtning money. And <hi>Pharoah</hi>'s daughter to <hi>Moſes</hi> which became her ſon, ſhe called <hi>Moſes,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 2.</note> mark, ſhe called him <hi>Moſes,</hi> no God-fathers, or God-mothers. And <hi>Ma<g ref="char:EOLhyphen"/>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ahs</hi>
+               <pb n="4" facs="tcp:104492:3"/>wife ſhe bare a ſon,
+<note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 13.</note> according as the Angel ſpake, and ſhe called his name <hi>Sampſon.</hi> Here was no prieſt to ſprinkle it, nor God-fathers, nor God-mothers ſpoken of.
+<note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4.</note> And <hi>Ruth</hi> bare a ſon, and they called his name <hi>Obed,</hi> the father of <hi>Ieſſe.</hi> And the Lord viſited <hi>Hannah,</hi> and ſhe conceived and bare a ſon,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>n.</hi> 1. <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ron.</hi> 7.</note> and called his name <hi>Samuel.</hi> And <hi>Maachah</hi> bare a ſon to <hi>Machir,</hi> and ſhe called his name <hi>Peresh,</hi> and the name of his brother was <hi>Sheresh:</hi> Mark, here ſhe called his name. And again, 1 <hi>Chron.</hi> 7. <hi>Ephraims</hi> wife bare him a ſon, and he called his name <hi>Beri<g ref="char:EOLhyphen"/>ah.</hi> And the Lord ſpake to <hi>Iſaiah,</hi> who declared the name of Chriſt, as you may read <hi>Matth.</hi> 1. <hi>And the Angel of the Lord ſaid, Thou shalt call his Name Ieſus.</hi> And it doth not ſay here was a prieſt to ſprinkle with water, or any God-fathers, or God-mothers. And the Angel of the Lord told <hi>Zacharias</hi> he ſhould have a ſon, and he ſhould call his name <hi>Iohn;</hi> and they called his name <hi>Zacharias,</hi> and they made ſigns to his fa<g ref="char:EOLhyphen"/>ther,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ke</hi> 1.</note> and <hi>Zacharias</hi> called for a writing-table, and wrote, and ſaid, His name is <hi>Iohn.</hi>
+            </p>
+            <p>Now you may ſee all along where ever they had any prieſts to ſprin<g ref="char:EOLhyphen"/>kle their children for money, or with a little water, as the prieſts now in <hi>England</hi> (or elſewhere) doth, and God-fathers, and God-mothers, as they had; but ſometimes the Lord did direct the people what to call their children, and ſometimes the fathers named their children, and ſometimes the mothers named them, without God-fathers or God-mo<g ref="char:EOLhyphen"/>thers, and without a Prieſt to ſprinkle them, and theſe were not heathen; for ſometimes the Angel of the Lord came and told them what they ſhould call them; and ſometimes ſome that took their children as <hi>Pha<g ref="char:EOLhyphen"/>roah's</hi> daughter that took <hi>Moſes,</hi> and called him <hi>Moſes: Moſes</hi> was not a heathen, nor <hi>Sampſon</hi> was not a heathen, nor <hi>Abel,</hi> nor <hi>Abraham,</hi> nor <hi>Seth,</hi> nor <hi>Enoch,</hi> nor <hi>Samuel,</hi> nor <hi>Iacob,</hi> nor <hi>Iſaac,</hi> nor <hi>John</hi> was not a heathen; and the Angel named Chriſt, now theſe were not heathen: Now you that ſay they are heathen becauſe your prieſts have not thrown a lit<g ref="char:EOLhyphen"/>tle water upon their faces, and have not God-fathers, or God-mothers: Are not you blaſphemers of God, and contrary-walkers to Scriptures? Where did any in ages paſt, ſprinkle any of their children, and they have wages for it and ſay then it is Chriſtened, in the dayes before the Law, and in the Law, or in the days of the Prophets, Chriſt or the Apoſtles? Where is there any ſuch Scripture as ſaith, Chriſten, or ſprinkle In<g ref="char:EOLhyphen"/>fants? And is not your ſprinkling of Infants as ſuperſtitious as the Pa<g ref="char:EOLhyphen"/>piſts, who dips their faces in the Fonts, and ſpits upon their noſes, and under both their ears, and puts a little ſalt in their mouths? How long is it ſince your prieſts hath left croſſing of their children when they chri<g ref="char:EOLhyphen"/>ſtened them? And do not the Jeſuit Prieſts do the ſame? wherein do you differ from them, ſeeing you have quoted them? What Scripture have you for this, for croſſing your children when you chriſten them, as you call it? Is it not popery? And was not the Pope the Mother and
+<pb n="5" facs="tcp:104492:3"/>Father of it? And did not you act as ſervants for him in doing that? What prieſts in all the Scripture had money for burying the dead, and a Clark to ſay <hi>Amen,</hi> and eight or ten ſhillings for preaching over the dead? Where had any of the Prophets, Chriſt, or the Apoſtles, an Hour-Glaſs? ſome preach by the hour, have ten ſhillings, or twenty ſhillings at a time for their preaching; are not they them that are given to filthy lucre, that buy and ſell? Are not you like to <hi>Simon Magus,</hi> (that would buy the gift of God with money, and ſell it, and ſet it at a price) which thought the gift of God might be bought and ſold for money? Doth not, or may not all people here ſee you have not the gift of God which are buying and ſelling it for money, which it cannot be? Come, What Scripture have you for your name <hi>Sacrament?</hi> Doth not theſe come from the Papiſts? Did ever Chriſt, the Prophets, or Apoſtles, preach by the hour, or priſon any, or perſecute any that had ſpoke to them in the hour, and the Papiſts law to uphold to the end of your hour, as the worlds Teachers hath in theſe days? Do not you love the wages of un<g ref="char:EOLhyphen"/>righteouſneſs that have ſo much ſilver for preaching an hour? Are not you ſuch Teachers as preach for hire, and divine for money? Such Hire<g ref="char:EOLhyphen"/>lings as will flye if you can hear of a bigger Benefice? And are you not ſuch ſhepherds as ſeeks for your gain from your quarter? And take away your gain, and you ſhepherds will flye from your flock. And are you not ſuch as bear rule by your means? And take away your means, and the Prieſt is gone, leaves the people; and ſuch as divines for money, take away your money, and you are gone, and leave the people all on heaps to look upon walls. And hath there not been ſuch Teachers in Ages paſt? And was not they and the people offended at them that cry<g ref="char:EOLhyphen"/>ed againſt them in ages paſt, and perſecuted them, and ſtock't them, and put them in Dungeons? And doth not the people now rage againſt them that cry againſt ſuch now in this age, and put them in priſon in Holes and Corners, for crying againſt ſuch as the Prophets cryed againſt? And are not ſuch now to be cryed againſt in this age? Are ſuch to be held up by them that be in the life of God, as they were that gave forth the Scripture? Here all ye prieſts are proved to be contrary to the Scripture, out of the New Teſtament and Old.</p>
+            <p>Chriſtening is a name which you have had from the Pope. Are not you falſe prieſts, and teachers, and miniſters, and prophets, and apoſtles, that will quench the ſpirit, and limit the Holy One, and deſpiſe prophe<g ref="char:EOLhyphen"/>ſying, and deſpiſe revelation, and quench the juſt? Hath not your fruits made you manifeſt? And do not you pretend a gift, and ſet ſale of it in every pariſh, and ſo ſell it for Tythes, Glebe-lands, Eaſter-reckonings, Midſummer-dues, ſtipends, or great ſums of moneys, and ſell it by the Hour-glaſſe, giving the people two glaſſes a day, and ſometimes but one, and when the glaſs is run, then <hi>Neighbors, the time is ſpent?</hi> And do you pray, or preach, or ſing, or preach without money? and if any ſpeak to
+<pb n="6" facs="tcp:104492:4"/>you in the time of your glaſs, he is diſturbed in his merchandizing, and is in confuſion, in <hi>Babylon:</hi> When ſuch as are moved of the Lord God in the unlimited ſpirit to witneſs againſt ſuch things, thoſe you impri<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>Circumciſion nor uncircumciſion avails not any thing, but a new creature: The children was named before circumciſion came in, which they ſay the baptiſm ſucceeded; <hi>Abel,</hi> and <hi>Enoch,</hi> and <hi>Enos,</hi> and <hi>A<g ref="char:EOLhyphen"/>braham,</hi> and many, which God gave them Wiſdom to name their chil<g ref="char:EOLhyphen"/>dren without prieſts ſprinkling of them, and without God-fathers, and God mothers, or Goſſips; and this was before circumciſion, and the pro<g ref="char:EOLhyphen"/>miſe of God, which was to the ſeed, which was, <hi>That the ſeed of the wo<g ref="char:EOLhyphen"/>man should break the Serpents head;</hi> which promiſe God again confirmed to <hi>Abraham, That in his ſeed should all the Nations of the earth be bleſſed;</hi> and the promiſe was to his ſeed before he was circumciſed, and before cir<g ref="char:EOLhyphen"/>cumciſion came in, or was practiſed, and before the law was given: So the promiſe was not with the circumciſion, but with the ſeed; and ſo the promiſe is not with the ſprinkling Infants, God-fathers, and Goſſips, but the promiſe was with the ſeed before the children was born, before <hi>Abel,</hi> or <hi>Enoch,</hi> or <hi>Abraham;</hi> and the promiſe was with the ſeed before circumciſion was, and before ſprinkling Infants was; and this promiſe the Apoſtle again brings to the ſeed, and ſaid, <hi>Circumciſion nor uncircum<g ref="char:EOLhyphen"/>ciſion availed not any thing, but a new creature.</hi> And as for ſprinkling In<g ref="char:EOLhyphen"/>fants, it is an invention ſet up by the Pope ſince the dayes of the Apo<g ref="char:EOLhyphen"/>ſtles, and practiſed by the Papiſts, and ſince them, and from them pra<g ref="char:EOLhyphen"/>ctiſed amongſt the Proteſtants: But the Heir of the promiſe is known, the Seed, Chriſt in the male, and in the female, the new creature, and all things are become new; and the circumciſion within, ends circumciſion without; as the baptiſm within, ends that without, made with hands, and brings from the things that are ſeen, to the things that are not ſeen, 2 <hi>Cor.</hi> 4. If now circumciſion avails not any thing, which was a com<g ref="char:EOLhyphen"/>mand of God, what doth ſprinkling of Infants (an invention of man) avail, and God-fathers, and God-mothers? Therefore that which avails, is the new creature; and the ſeed is the heir of the promiſe, not of Seeds, but of one Seed, which is Chriſt; ſo Chriſt in the male, and in the female known, there's the heir of the promiſe, and there is the birth known that is born again of the ſpirit, which enters into the kingdom: And to you prieſts which have the mark of the Papiſts in your fore-heads, as your Croſſes a-top of your Maſs-houſes, as your tythes, Popes mark in your fore-heads; as your ſprinkling Infants, the Popes mark in your fore<g ref="char:EOLhyphen"/>heads: The tenth Biſhop of <hi>Rome</hi> ordained that there ſhould be chriſten<g ref="char:EOLhyphen"/>ing of children, and that the child ſhould have God-fathers, and God-mothers: For your Schools, Colledges, and names of your Houſes, your preaching by the glaſs, as the Popes Crew ſay their Maſs; and your per<g ref="char:EOLhyphen"/>ſecuting wreſtling with fleſh and blood, with creatures, Popes mark in
+<pb n="7" facs="tcp:104492:4"/>your fore-heads, and not Chriſts, that ſaves mens lives, nor the Apoſtles that warred not with fleſh and blood; you that priſon to death for your bellies as you do no work for.</p>
+            <p>And oh what a vomit have the Prieſts vomited! and how are they ca<g ref="char:EOLhyphen"/>ſting and vomiting daylie! And how doth the prejudiced profeſſors lick up their vomit, that which they vomit &amp; ſpew up! And how do the other Prieſts and Teachers ſuck and ſup up what they have vomited forth! and it makes the profeſſors and teachers to vomit again, who have licked up that which they have vomited, and eat up that which they have ſpewed and caſt up, as all their Books, and Pamphlets, and Pulpits declare their vomiting: Let the Nations witneſs, and all ſober people, how ſick they are by licking up that, and eating up that which the Prieſts vomited up again! O what a loathſom ſickneſs is there upon people! which the one people ſpew and vomit up, and others licking up again what they have vomited, and it makes them to vomit and ſpew: and bitter profeſſors full of prejudice, they gape, and they catch in that which the prieſts have vomited and ſpewed forth, and it makes them vomit again, and ſo all tables are full of vomit, as ſaith <hi>Eſay,</hi> chap. 28.8. From the prieſts to the people they are all ſick; and ſuch are theſe that are againſt the light, with which Chriſt hath enlightned every man that cometh into the world: That which one ſpews out, &amp; vomits out in their Books &amp; Pamphlets, that another prieſt he takes the ſame up, &amp; he eats the book, &amp; vomits it up a<g ref="char:EOLhyphen"/>gain, till the whole Nation is filled with their vomit: And this hath been the ſtate ſince the dayes of the Apoſtles, in the apoſtacy. What a ſickneſs hath been becauſe of vomits! For firſt tranſgreſs, and then vo<g ref="char:EOLhyphen"/>mit. Firſt ſick, and then vomit. So all are given to vomiting, having no<g ref="char:EOLhyphen"/>thing to ſeed upon but what another vomits out; what tranſgreſſors vo<g ref="char:EOLhyphen"/>mits out that hath the Scriptures and Saints words, and are ſick, and then vomit out, being out of the Saints life, and the life of the prophets, Chriſt, and the Apoſtles, and feed not upon the fleſh of Chriſt, and ſo have wanted the meat that endureth, for him that eats the fleſh of Chriſt, lives for ever, and are well, ſuch vomits not, ſuch ſpews not. But what a ſhameful ſpewing hath here been among them as feeds not upon the fleſh of Chriſt that came down from Heaven, which whoſoever doth, never hungers more; and they that doth not, are the tranſgreſſors, and vomits, and ſpews, and others eat that as they have ſpewed and vomit<g ref="char:EOLhyphen"/>ted: For it is juſt ſo, when they are in the tranſgreſſion, there is nothing but vomits, and ſo the tranſgreſſor can eat nothing but what others vo<g ref="char:EOLhyphen"/>mits, and that makes whole Nations ſick: And that which theſe prieſts and profeſſors vomits out, is not that meat which comes down from Heaven, which whoever eats, ſhall never hunger more. So they that are in the tranſgreſſion, vomits, and are as the dogs, that vomit up what they have licked up, and ſo one dog licks up what another dog hath vo<g ref="char:EOLhyphen"/>mited up, 2 <hi>Pet.</hi> 2.22. and <hi>Prov.</hi> 26.11. and ſo many have been filled with their vomit, and hath eaten up their vomit, <hi>Prov.</hi> 23.8. and many
+<pb n="8" facs="tcp:104492:5" rendition="simple:additions"/>are as drunken men ſtaggering in their vomit; for all tables are full of vomits in the tranſgreſſion, and as <hi>Moab</hi> wallowing in the vomit, <hi>Ier.</hi> 48. and becauſe of this tranſgreſſion the Land vomiteth out her Inhabitants, <hi>Lev.</hi> 18. And ſo all tables being full of vomit, all tables to the ſavoury gives a bed ſmell. The Lord God is ſpewing you out of his mouth, all gathered Churches and ſeparations whatſoever, that have got up ſince the days of the Apoſtles, that hath had the ſheeps clothing, but be out of the ſheeps nature, ſpirit, life and mind; and your ſecrets ſhall be uncover<g ref="char:EOLhyphen"/>ed, and God will fill you with ſhame: The cup of the Lords right hand ſhall be turned to you, and ſhameful ſpewing ſhall be on your glory, <hi>Hab.</hi> 2. that have been drunk, and are the drunkards that are filled with ſtrong drink, with new wine, with the cares of this life. Thus ſaith the Lord of Hoſts, the God of Iſrael, Drink ye, be drunk, ſpew, fall, and riſe no more; and the Inhabitants of the earth are drunk, all Nations have drunk the Cup of fornication: The Kings of the earth, and the Inhabitants of the earth hath drunk of the Whores Cup, and ſo are ſpewing. Therefore learn ſoberneſs, which none doth but they who are come to the Spirit of God. Therefore the great Whore is drunk with the blood of the Saints, which ravened from the ſpirit of God, got up ſince the dayes of the A<g ref="char:EOLhyphen"/>poſtles, having the ſheeps clothing, and they that are drunk, are drunk in the night, 1 <hi>Theſs.</hi> 5. and the Whore that ravened from the ſpirit of God, which is drunk with the blood of the Saints, and made the Kings of the Earth drunk, and the Inhabitants of the earth drunk, they are in the night, and will not own the light Chriſt, which enlightens every man that cometh into the world, but with that are they made manifeſt; for that which makes manifeſt, is light; and drunkards muſt no enter into the Kingdom of God: And the Inhabitants of the earth hath ſhewed their drunkenneſs with the wine of her fornication ſufficiently, ſince the days of the Apoſtles, and the Kings of the Earth: But ſuch muſt drink the Cup of the wrath of the Almighty, and of the Lamb, poured out without mixture, and the judgement of the great Whore is come, and <hi>Babylon</hi> is confounded, and confounding, with the Beaſt, falſe Pro<g ref="char:EOLhyphen"/>phet, and the old Dragon, and are taken, and with him caſt caſt alive in<g ref="char:EOLhyphen"/>to the Lake of fire, and the Lamb and the Saints have the victory, and the everlaſting Goſpel ſhall be preached to them that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>well upon the <hi>Earth. Glory in the Higheſt, Halelujah.</hi>
+            </p>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
